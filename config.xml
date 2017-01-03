@@ -2,7 +2,7 @@
 <widget id="com.inmoove.inmoovedev" version="1.7.6" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Inmoove Dev</name>
     <description>
-        The Inmoove Developer app is a testing utility for web developers and designers using the PhoneGap framework. After installing this app on your device you will be able to connect it to the PhoneGap desktop app to instantly view and test your work
+        The Inmoove Developer app is a testing utility for developers using the PhoneGap framework. After installing this app on your device you will be able to connect it to the PhoneGap desktop app to instantly view and test your work
     </description>
     <author email="jm@inmoove.com" href="http://inmoove.com">
         Inmoove Team
