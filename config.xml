@@ -80,8 +80,8 @@
     <plugin name="cordova-plugin-keyboard" spec="1.1.4" source="npm" />
     <plugin name="cordova-plugin-ios-longpress-fix" source="npm" />
     <plugin name="cordova-plugin-googlemaps" spec="https://github.com/mapsplugin/cordova-plugin-googlemaps.git#multiple_maps">
-    <param name="API_KEY_FOR_IOS" value="AIzaSyD39vS9_CdjfT8yru6iEAlx0-ZLkv1Ymvc" />
-    <param name="API_KEY_FOR_ANDROID" value="AIzaSyBG0x9ZtzaPflL7fO5sF3c4o_GhSHAOW_I" />
+    <param name="API_KEY_FOR_IOS" value="AIzaSyD3PWeBEHZIzzkZFrQedNBnBr0KQqNGvVg" />
+    <param name="API_KEY_FOR_ANDROID" value="AIzaSyAli1LtN8K9NgcNNuyw9psKkg0K8eE6JpA" />
     </plugin>    
     
     
